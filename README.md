@@ -86,8 +86,7 @@ This isn't just my day job. I am a passionate software developer continually see
 
 </details>
 
-
-## ❤️ Values and facts
+## ❤️ Values & 🏴‍☠️ Facts
 
 - 🎓 Master's degree in **Computer Science**
 - 👨‍💻 Senior Software Engineer @ 🐼 <a href="https://pandadoc.com" target="_blank">PandaDoc</a>
@@ -96,7 +95,7 @@ This isn't just my day job. I am a passionate software developer continually see
 - ⚙️ Mastering: `.py`, `.rs`,`.js`
 - 📣 Languages: English & Russian
 <!-- - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
-- 💬 I'm mostly active within the **Python**, **Rust**, **Vue.JS**, **Node.JS** and **Unity 3D** communities -->
+- 💬 I'm mostly active within the **Python**, **Rust**, **Vue.JS**, **Node.JS** and **Unity 3D** communities 🏴‍☠️ -->
 
 ### 📬 Get in Touch
 
