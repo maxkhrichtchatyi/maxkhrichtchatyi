@@ -17,8 +17,8 @@
 
 ### Stats
 
-![](https://github.com/omentes/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/omentes/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/J0shu4B0y/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/J0shu4B0y/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **J0shu4B0y/J0shu4B0y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
