@@ -98,7 +98,7 @@ This isn't just my day job. I am a passionate software developer continually see
 <!-- - 👯 I’m looking to collaborate on **Open Source** and/or **Videogames** projects
 - 💬 I'm mostly active within the **Python**, **Rust**, **Vue.JS**, **Node.JS** and **Unity 3D** communities -->
 
-### 📬 Get in Touch [![pgp](https://img.shields.io/badge/pgp-751CD16EF91CE90C3152C60D7F02BC90BF1F8234?style=flat&labelColor=313131&color=313131)](https://github.com/j0shu4b0y.gpg)
+### 📬 Get in Touch
 
 - StackOverflow: [stackoverflow.com/j0shu4b0y][stackoverflow]
 - GitHub: [github.com/j0shu4b0y][github]
