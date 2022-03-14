@@ -90,7 +90,7 @@ This isn't just my day job. I am a passionate software developer continually see
 
 - 🎓 Master's degree in **Computer Science**
 - 👨‍💻 Senior Software Engineer @ 🐼 <a href="https://pandadoc.com" target="_blank">PandaDoc</a>
-- 📍 Location: Digital Nomad 🇮🇱 / 🇰🇿 / <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Belarus_%281918%2C_1991–1995%29.svg" width="20" height="10">
+- 📍 Location: Digital Nomad 🌏
 - 🌱 I’m currently learning **Software Architecture** & **Software Design**
 - ⚙️ Mastering: `.py`, `.rs`,`.js`
 - 📣 Languages: English & Russian
