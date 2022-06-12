@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Max Khrichtchatyi
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Max Khrichtchatyi
 
 ![I'm 5 years old in this picture](https://avatars.githubusercontent.com/u/1884450?s=300&v=4)
 
@@ -99,9 +99,9 @@ This isn't just my day job. I am a passionate software developer continually see
 
 ### 📬 Get in Touch
 
-- StackOverflow: [stackoverflow.com/j0shu4b0y][stackoverflow]
+- StackOverflow: [stackoverflow.com/maxkhrichtchatyi][stackoverflow]
 - GitHub: [github.com/j0shu4b0y][github]
-- LinkedIn: [linkedin.com/in/j0shu4b0y/][linkedin]
+- LinkedIn: [linkedin.com/in/maxkhrichtchatyi/][linkedin]
 - Personal site: [j0shu4b0y.com][site]
 - Twitter: [twitter.com/j0shu4b0y][twitter]
 - E-mail: maxim.khrichtchatyi@gmail.com *(Looking for my Resume? E-Mail me!)*
@@ -110,8 +110,8 @@ This isn't just my day job. I am a passionate software developer continually see
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0shu4B0y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[stackoverflow]: https://stackoverflow.com/users/2149406/j0shu4b0y
+[stackoverflow]: https://stackoverflow.com/users/2149406/max-khrichtchatyi
 [github]: https://github.com/j0shu4b0y
-[site]: https://federico-dondi.github.io
+[site]: https://maxkhrichtchatyi.com
 [twitter]: https://twitter.com/j0shu4b0y
-[linkedin]: https://www.linkedin.com/in/j0shu4b0y/
+[linkedin]: https://www.linkedin.com/in/maxkhrichtchatyi/
