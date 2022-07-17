@@ -100,10 +100,11 @@ This isn't just my day job. I am a passionate software developer continually see
 ### 📬 Get in Touch
 
 - StackOverflow: [stackoverflow.com/maxkhrichtchatyi][stackoverflow]
-- GitHub: [github.com/j0shu4b0y][github]
+- GitHub: [github.com/maxkhrichtchatyi][github]
 - LinkedIn: [linkedin.com/in/maxkhrichtchatyi/][linkedin]
-- Personal site: [j0shu4b0y.com][site]
-- Twitter: [twitter.com/j0shu4b0y][twitter]
+- Personal site: [maxkhrichtchatyi.com][site]
+- Twitter: [twitter.com/mkhrichtchatyi][twitter]
+- Instagram: [instagram.com/maxkhrichtchatyi][instagram]
 - E-mail: maxim.khrichtchatyi@gmail.com *(Looking for my Resume? E-Mail me!)*
 
 ### 📈 Stats
