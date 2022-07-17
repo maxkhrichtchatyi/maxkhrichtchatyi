@@ -112,7 +112,8 @@ This isn't just my day job. I am a passionate software developer continually see
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J0shu4B0y&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [stackoverflow]: https://stackoverflow.com/users/2149406/max-khrichtchatyi
-[github]: https://github.com/j0shu4b0y
+[github]: https://github.com/maxkhrichtchatyi
 [site]: https://maxkhrichtchatyi.com
-[twitter]: https://twitter.com/j0shu4b0y
+[twitter]: https://twitter.com/mkhrichtchatyi
 [linkedin]: https://www.linkedin.com/in/maxkhrichtchatyi/
+[instagram]: https:/instagram.com/maxkhrichtchatyi/
