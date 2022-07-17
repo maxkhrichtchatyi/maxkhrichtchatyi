@@ -115,5 +115,5 @@ This isn't just my day job. I am a passionate software developer continually see
 [github]: https://github.com/maxkhrichtchatyi
 [site]: https://maxkhrichtchatyi.com
 [twitter]: https://twitter.com/mkhrichtchatyi
-[linkedin]: https://www.linkedin.com/in/maxkhrichtchatyi/
+[linkedin]: https://www.linkedin.com/in/maxkhrichtchatyi
 [instagram]: https:/instagram.com/maxkhrichtchatyi/
