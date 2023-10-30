@@ -1,8 +1,9 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Max Khrichtchatyi
 
-![I'm 5 years old in this picture](https://avatars.githubusercontent.com/u/1884450?s=300&v=4)
+<img src="https://github.com/maxkhrichtchatyi/maxkhrichtchatyi/blob/main/me_and_computer_286.jpeg?raw=true" width="400px" height="400px"> 
 
 :point_up_2: *Me (5 years old) and a Computer*
+
 
 I was born and grew up in Alma-Ata, USSR *(now Qazaqstan)*. From the age of 15, I began programming, working on simpler projects, and never stopped coding since then. I graduated from International IT University and currently I work as a Senior Software Engineer for an IT company. 
 
